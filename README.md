@@ -1,5 +1,9 @@
 # Two-Sentence Horror
 
+[![make.fun](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+[![Rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/satscribe-dev/u-suroto-two-sentence-horror-acea9253/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+[![Reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/satscribe-dev/u-suroto-two-sentence-horror-acea9253/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+
 Entry for the make.fun bounty
 [u-suroto-two-sentence-horror-acea9253](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253):
 write the scariest horror story you can in exactly two sentences.
